@@ -44,6 +44,10 @@ button {
 
 /* Main styles */
 
+.section {
+  padding: 120px 0;
+}
+
 .sr-only {
   position: absolute;
   white-space: nowrap;
